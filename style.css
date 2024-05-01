@@ -37,6 +37,10 @@ body {
 
 #header {
     background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 /* Write Your CSS Below 
