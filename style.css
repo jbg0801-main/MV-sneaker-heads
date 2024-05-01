@@ -5,6 +5,40 @@ html {
     color:white;
 }
 
+body {
+    align-content: center;
+    text-align: center;
+}
+
+#row1 {
+    width:600px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+#row2 {
+    width:600px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#rows {
+    display: flex;
+    align-content: center;
+}
+
+#row1-section2 {
+    background-color: red;
+}
+
+#row2-section2 {
+    background-color: green;
+}
+
+#header {
+    background-color: orange;
+}
+
 /* Write Your CSS Below 
 Colors: 
 - rgb(243, 183, 106)
