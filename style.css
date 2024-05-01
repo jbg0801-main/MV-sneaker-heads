@@ -1,5 +1,8 @@
-body {
-    font-family: "copperplate";
+html {
+    font-family: "Copperplate";
+    background-image: url("img/background.gif");
+    background-size:cover;
+    color:white;
 }
 
 /* Write Your CSS Below 
